@@ -1,6 +1,7 @@
 //Bubble sort algorithm
 // Only for one-dimensional arrays
 // Author: Homitsevich Nikita
+// Asymptotic complexity of the BubbleSort: O(n^2)
 ////////////////////////////////////////
 #include <iostream>
 #include <locale.h>
