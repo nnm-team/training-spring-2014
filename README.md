@@ -1,6 +1,7 @@
-##training-spring-2014
-==========================
-
 Training materials of Spring 2014
 
-Push your files in a branch with your name!
+Make this steps to show that you take participate in a command training:
+* create your folder named your surname 
+* create a new .cpp or other file with another extension
+* write in it some algorithm 
+* save it 
